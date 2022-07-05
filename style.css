@@ -1,0 +1,125 @@
+body{
+    
+    background-color: #ddf6f8;
+    margin: 0;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h1{
+    margin: 0;
+    font-family:;
+    font-family: 'Tangerine', cursive; 
+    color: #0d1d1d;
+    font-size: 70px;
+}
+.navbar{
+    
+    position:fixed ;
+    background-color: #0d1d1d;
+    width:100%;
+    
+}
+.logo{
+    text-align:left; 
+}
+.menu{
+    display:flex;
+    text-align:right;
+    list-style-type: none;
+    margin-left:auto;
+}
+.max-width{
+    display:flex;
+}
+.menu-btn{
+
+}
+.myProfile{
+
+    width:190px;
+    height:250px;
+
+    
+    
+}
+h2{
+    color: #54d3d3;
+    
+}
+h3{
+    color:#116063;
+}
+p{
+    font-size: 20px;
+    margin:0;
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+hr{
+    border:dotted  6px;
+    color:light-black;
+    border-bottom: none;
+    width: 7%;
+    margin :80px auto;
+}
+.top{
+    background-color: #54d3d3;
+     padding-left: 15px;
+     text-align: center;
+     padding-top: 60px;
+     
+     
+}
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+    font-size:25px;
+}
+.middle{
+    background-color: #ddf6f8;
+}
+#about{
+    
+}
+    
+.skill-row{
+      width: 50%;
+       margin: 100px auto 100px auto;
+       text-align: left;
+
+}
+.coading{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.web{
+    width: 20%;
+    float: right;
+    margin-left: 10px;
+}
+.message{
+    width:40%;
+    margin: 40px auto 50px
+}
+.btn {
+    background: #11CDD4;
+ }
+.bottom{
+    background-color:#66BFBF;
+    padding: 50px 0 20px ;    
+}
+a{
+    
+    margin: 11px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #40514E;
+}
+div.copyright{
+    font size:0.90em;
+    padding: 30px 0 3px;
+    
+}
